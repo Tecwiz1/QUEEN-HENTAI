@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94740804536', 'Dinuwa Official²⁰²³', true],
-  ['94740804536', 'Dinuwa Official²⁰²³', true], 
+  ['94740804536', 'Naruto', true],
+  ['94740804536', 'Naruto', true], 
   [''] 
 ] //Number of owners
 
@@ -47,19 +47,12 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Queen Hentai 💝'
+global.botname = 'Naruto'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
-global.author = '💝 Dinuwa Official²⁰²³ 💝' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Dinuwa Official²⁰²³\n' 
-global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
-global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
+global.packname = 'Naruto Created By Leslie Maccarthy' 
+global.author = 'leslie' 
 
-
-global.wait = '*💝 _Waiting Bro Uploading by 💝 Queen Hentai 💝..._*'
+global.wait = '*💝 _Waiting Bro Uploading by Naruto ..._*'
 global.rwait = '🇱🇰'
 global.dmoji = '🤣'
 global.done = '👍'
